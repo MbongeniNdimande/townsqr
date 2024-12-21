@@ -1,0 +1,16 @@
+/* src/MessageList.css */
+/* Bubble Text Style */
+.bubble-text {
+  font-size: 2Sem;
+  color: white;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(145deg, #6dd5ed, #2193b0);
+  border-radius: 50px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+  
